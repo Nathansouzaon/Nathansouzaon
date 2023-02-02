@@ -1,6 +1,6 @@
 # olá! meu nome é Nathan Souza
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Nathansouzaon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathansouzaon&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
 </a>
 
